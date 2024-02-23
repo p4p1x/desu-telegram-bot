@@ -9,4 +9,5 @@ To use this bot follow these steps:
 5. Done
 ## Functions and commands 
 -```/start``` command: prints greetings -- meant for debugging purposes
+
 -```process_message``` function: handles word replacment and sending messeges
