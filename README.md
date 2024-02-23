@@ -10,4 +10,4 @@ To use this bot follow these steps:
 ## Functions and commands 
 -```/start``` command: prints greetings -- meant for debugging purposes
 
--```process_message``` function: handles word replacment and sending messeges
+-```process_message``` function: handles word replacement and sending messeges
