@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = 'placeholder' #Put your bot token here
+TOKEN = 'placeholder' #Put your bot's token here
 
 def start(update: Update, context: CallbackContext):
     update.message.reply_text('Hello! I am your Desu-bot.')
